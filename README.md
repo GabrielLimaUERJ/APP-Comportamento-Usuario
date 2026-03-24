@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Aanalisar o comportamento de usuários em um ambiente digital, simulando interações reais e identificando padrões de conversão ao longo do funil:
+Analisar o comportamento de usuários em um ambiente digital, simulando interações reais e identificando padrões de conversão ao longo do funil:
 
 **visita → clique → compra**
 
